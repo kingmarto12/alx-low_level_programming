@@ -3,7 +3,7 @@
 /**
  * main - main printing of size
  *
- * Return:0 new line
+ * Return:0 new line sucess
  */
 
 int main(void)
